@@ -1,0 +1,15 @@
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/bin/Debug/net6.0/Vezbe3
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/bin/Debug/net6.0/Vezbe3.deps.json
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/bin/Debug/net6.0/Vezbe3.runtimeconfig.json
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/bin/Debug/net6.0/Vezbe3.dll
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/bin/Debug/net6.0/Vezbe3.pdb
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.csproj.AssemblyReference.cache
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.AssemblyInfoInputs.cache
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.AssemblyInfo.cs
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.csproj.CoreCompileInputs.cache
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.dll
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/refint/Vezbe3.dll
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.pdb
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/Vezbe3.genruntimeconfig.cache
+/home/ognjen/Desktop/Fakultet/USI/Vezbe3/obj/Debug/net6.0/ref/Vezbe3.dll
